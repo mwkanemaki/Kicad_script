@@ -1,17 +1,6 @@
 
 
 
-http://kevincuzner.com/2017/04/28/arranging-components-in-a-circle-with-kicad/
-Arranging components in a circle with Kicad
-
-
-
-
-重要
-https://www.usagi1975.com/202009222101/
-
-
-
 https://realpython.com/run-python-scripts/#how-to-run-python-code-interactively
 
 python script の実行の方法　各種　が記述されている
@@ -30,30 +19,26 @@ https://github.com/KiCad/kicad-footprint-wizards
 
 
 
-https://gitlab.com/kicad/code/kicad/tree/master/pcbnew/python/plugins
 
 
-http://www.jeffmcbride.net/2019/05/28/programatic-layout-with-kicad-and-python.html
-Programmatic Layout with KiCad and Python
+http://kevincuzner.com/2017/04/28/arranging-components-in-a-circle-with-kicad/
+Arranging components in a circle with Kicad
 
 
-http://www.jeffmcbride.net/2021/02/28/kicad-component-layout.html
-KiCad automated component layout via configuration file
 
 
 重要
-https://github.com/xesscorp/xess_fp_wizard
-This is a wizard to assist you in making footprints 
-for chips having pins around the edges 
-(SOICs, QFPs, etc.) and ball grid arrays (BGAs)
+https://www.usagi1975.com/202009222101/
+
+
+重要
+https://docs.kicad.org/doxygen-python/
 
 
 
-What is the easiest way to draw a footprint in Kicad
-https://forum.kicad.info/t/what-is-the-easiest-way-to-draw-a-footprint-in-kicad/1643
 
-重要 pcbnewにおけるscriptingの基本
-https://kicad.mmccoo.com/2017/02/01/the-basics-of-scripting-in-pcbnew/
+
+
 
 
 
