@@ -41,4 +41,24 @@ http://www.jeffmcbride.net/2021/02/28/kicad-component-layout.html
 KiCad automated component layout via configuration file
 
 
+重要
+https://github.com/xesscorp/xess_fp_wizard
+This is a wizard to assist you in making footprints 
+for chips having pins around the edges 
+(SOICs, QFPs, etc.) and ball grid arrays (BGAs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
