@@ -27,6 +27,10 @@ Arranging components in a circle with Kicad
 
 
 
+
+
+
+
 重要
 https://www.usagi1975.com/202009222101/
 
@@ -44,7 +48,9 @@ https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/wikis/List-of-KiC
 
 
 
-
+PCBNEW PLUGINS
+https://dev-docs.kicad.org/en/python/pcbnew/
+重要　開発者向け情報源
 
 
 
